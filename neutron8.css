@@ -1,20 +1,20 @@
-@import url("https://xcruxiex.github.io/themes/core/custom-font.css");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans');
 @import url("https://nyri4.github.io/Discolored/main.css");
 @import url("https://xcruxiex.github.io/themes/core/hljs.css");
 
 :root {
-    --themeColor1: #36D1DC;
-    --themeColor2: #5B86E5;
-    --font-display: var(--customFont);
-    --homeImage: url('https://imgur.com/eItxuAq.png');
+    --themeColor1: #2688DCFF;
+    --themeColor2: #B9BAE5FF;
+    --font-display: 'Open-Sans';
+    --homeImage: url('https://i.imgur.com/iFEvWG0.png');
     --homeImageSize: cover;
-    --backgroundColor: #0d0d0d;
-    --backgroundImage: url('https://imgur.com/qhBghXt.png');
+    --backgroundColor: #4046A2FF;
+    --backgroundImage: url('https://i.imgur.com/lvlSY8E.jpg');
     --backgroundPosition: center;
     --backgroundSize: cover;
     --backgroundRepeat: no-repeat;
-    --backgroundBlur: 100px;
-    --backgroundOpacity: .65;
+    --backgroundBlur: 0px;
+    --backgroundOpacity: 1;
     --backgroundCode: rgba(0, 0, 0, .5);
     --backgroundName: rgba(0, 0, 0, .5);
 }
